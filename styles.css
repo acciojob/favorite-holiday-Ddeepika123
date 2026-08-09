@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body	{
+font-family: Arial, sans-serif;
+background-color: #f2f8ff; 
+margin: 30px; 
+line-height: 1.6; 
+} 
+h1 { 
+	color: #0066cc;
+} 
+h2 { 
+	color: #333;
+} 
+p { 
+	font-size: 18px;
+}
+ol, ul { 
+	font-size: 17px; 
+} 
+li { 
+	margin: 8px 0;
+}
+strong { 
+	color: #d35400; 
+}
